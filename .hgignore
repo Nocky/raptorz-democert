@@ -1,0 +1,16 @@
+syntax: glob
+
+.DS_Store
+.gradle
+local.properties
+.idea/workspace.xml
+*~
+*.~swp
+*.swp
+*.class
+*.jar
+*.dex
+bin/
+gen/
+build/
+.settings/
